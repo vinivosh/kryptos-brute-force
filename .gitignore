@@ -204,3 +204,12 @@ pyrightconfig.json
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks,visualstudiocode
+
+
+
+# * ############################################################################
+# * Added by me
+# * ############################################################################
+
+# Word and bigram counts
+count_*.txt
